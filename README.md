@@ -1,7 +1,6 @@
 ### Hi there 👋
 # About Me
-
-👋 Hi there! I'm a Full Stack Software Engineer with a passion for building scalable web applications and engaging user experiences. With a knack for problem-solving and a continuous drive to learn, I thrive in environments that challenge me to grow and innovate.
+I'm a Full Stack Software Engineer with a passion for building scalable web applications and engaging user experiences. With a knack for problem-solving and a continuous drive to learn, I thrive in environments that challenge me to grow and innovate.
 
 ## Skills
 - **Languages**: JavaScript (ES6+), Python, Java, C#, and SQL
