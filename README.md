@@ -20,12 +20,10 @@ I've worked on a variety of projects, from small startups to large-scale enterpr
 - **Social Media App**: Created a social networking platform with real-time notifications and news feed algorithm using React Native and Firebase.
 
 ## Education
-Bachelor's Degree in Computer Science from a reputed university, where I honed my technical skills and developed a solid foundation in software engineering principles.
+Bachelor's Degree and continued my education with The Full Web Development Bootcamp, where I honed my technical skills and developed a solid foundation in software engineering principles.
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on a project or just chat about tech. I'm always open to new opportunities and connections.
-
-!GitHub Badge
 
 
 <!--
